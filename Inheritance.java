@@ -39,7 +39,7 @@ void calresult()
   System.out.println("Percentage=" + percentage + "%");
   }
 }
-public class Main
+public class Inheritance
 {
  public static void main(String args[])//args is a string array, public is used for visibility or access thorughout the program, by using static a code can excute w/o a help of an obj, void means return nothing, main 
  {
@@ -51,5 +51,6 @@ public class Main
 
 
    
+
 
 
